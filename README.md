@@ -40,7 +40,7 @@ When I'm not in a code editor, I’m exploring the intersections of art and lang
 
 I'm always down to talk about tech, art, or potential collabs. Hit me up on any of these platforms:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdinpurwaputra/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdinpurwaputra/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdin_ptra/?utm_source=ig_web_button_share_sheet)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erdinhack@gmail.com)
 
