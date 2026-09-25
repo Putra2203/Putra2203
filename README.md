@@ -20,6 +20,10 @@
     <a href="https://www.instagram.com/erdin_ptra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 
+  <p align="center">
+    <a href="https://github.com/bigmoveintelligent"><img src="https://img.shields.io/badge/Currently-Full--Stack%20Developer%20%40%20Big%20Move%20Intelligent-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
 </div>
 
 ---
@@ -30,6 +34,7 @@
 system:
   operator: Erdin Purwa Putra
   classification: Full-Stack Web & Mobile Developer
+  current_role: "Full-Stack Developer @ Big Move Intelligent"
   location: Indonesia 🇮🇩
   engineering_domains:
     - Full-Stack Web Applications (TypeScript, Laravel, Node.js)
